@@ -8,8 +8,8 @@
     <ProjectGuid>{50C43543-4469-4180-84E9-7F306625D3BE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UI</RootNamespace>
-    <AssemblyName>UI</AssemblyName>
+    <RootNamespace>MineSolutions.GourceUI</RootNamespace>
+    <AssemblyName>MineSolutions.GourceUI</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
@@ -84,6 +84,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="logo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Library\CommandLibrary.csproj">
+      <Project>{CE0A7ECD-FD6B-4A37-B7AA-81A22F9DA545}</Project>
+      <Name>CommandLibrary</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

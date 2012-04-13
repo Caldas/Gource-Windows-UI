@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace UI
+namespace MineSolutions.GourceUI
 {
     static class Program
     {

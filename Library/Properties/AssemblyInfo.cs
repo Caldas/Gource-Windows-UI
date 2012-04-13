@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MineSolutions Gource UI")]
-[assembly: AssemblyDescription("This project is a windows form application that help on Gource multiple arguments call")]
+[assembly: AssemblyTitle("MineSolutions Command Library")]
+[assembly: AssemblyDescription("Project used to run windows commands")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("MineSolution")]
-[assembly: AssemblyProduct("Gource UI")]
-[assembly: AssemblyCopyright("Copyright © MineSolution 2012")]
+[assembly: AssemblyCompany("MineSolutions")]
+[assembly: AssemblyProduct("Command Library")]
+[assembly: AssemblyCopyright("Copyright © MineSolutions 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5136c9c5-9e70-4e3f-ab5f-21bdabd89d26")]
+[assembly: Guid("575af22f-cae2-4ec9-be6e-cd55c732d2d8")]
 
 // Version information for an assembly consists of the following four values:
 //
