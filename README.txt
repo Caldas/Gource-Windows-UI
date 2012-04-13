@@ -20,7 +20,9 @@ This project is a windows form application that help on Gource
 
 2. Requirements
 
-TBD
+. Windows XP or greater
+. Visual Studio 2010
+. Net 4.0
 
 3. Using Gource Windows UI
 
