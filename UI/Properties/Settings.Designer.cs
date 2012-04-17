@@ -58,5 +58,41 @@ namespace MineSolutions.GourceUI.Properties {
                 this["GitProjectPathSetting"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string UserImageDirectoryPathSetting {
+            get {
+                return ((string)(this["UserImageDirectoryPathSetting"]));
+            }
+            set {
+                this["UserImageDirectoryPathSetting"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string BackgroundImagePathSetting {
+            get {
+                return ((string)(this["BackgroundImagePathSetting"]));
+            }
+            set {
+                this["BackgroundImagePathSetting"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string DefaultUserImagePathSetting {
+            get {
+                return ((string)(this["DefaultUserImagePathSetting"]));
+            }
+            set {
+                this["DefaultUserImagePathSetting"] = value;
+            }
+        }
     }
 }

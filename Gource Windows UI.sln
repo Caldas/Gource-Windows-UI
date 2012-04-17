@@ -5,6 +5,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{50C4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandLibrary", "Library\CommandLibrary.csproj", "{CE0A7ECD-FD6B-4A37-B7AA-81A22F9DA545}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{3138FDC4-96DA-40D4-873F-4AD4EF6F9D77}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+		TODO.txt = TODO.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -1,0 +1,1 @@
+* Allow Bloom Multiplier to be decimal
