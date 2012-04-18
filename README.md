@@ -1,10 +1,10 @@
-	Gource Windows UI
+# Gource Windows UI
 
-	Windows UI for Gource
+## Windows UI for Gource
 	
-	Copyright (C) 2012 Fábio Caldas
+### Copyright (C) 2012 [Fábio Caldas](https://github.com/Caldas) / [Vtex](http://www.vtex.com.br)
 
-Contents
+## Contents
 ========
 
 1. Description
@@ -12,26 +12,28 @@ Contents
 3. Using Gource Windows UI
 4. Copyright
 
-1. Description
+### 1. Description
 ==============
 
-This project is a windows form application that help on Gource 
-(https://github.com/acaudwell/Gource) multiple arguments call;
+This project is a windows form application that help on [Gource](https://github.com/acaudwell/Gource) multiple arguments call;
 
-2. Requirements
+### 2. Requirements
+==============
 
-. Windows XP or greater
-. Visual Studio 2010
-. Net 4.0
+* Windows XP or greater
+* Visual Studio 2010
+* Net 4.0
 
 3. Using Gource Windows UI
+==============
 
-TBD
+**To Be Definied**
 
 4. Copyright
+==============
 
 Gource Windows UI - windows ui for software version control visualization
-Copyright (C) 2012 Fábio Caldas <fabio.caldas@gmail.com>
+Copyright (C) 2012 [Fábio Caldas](https://github.com/Caldas) / [Vtex](http://www.vtex.com.br) <fabio.caldas@vtex.com.br>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
