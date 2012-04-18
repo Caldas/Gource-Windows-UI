@@ -8,8 +8,8 @@
     <ProjectGuid>{CE0A7ECD-FD6B-4A37-B7AA-81A22F9DA545}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MineSolutions.Library.CommandLibrary</RootNamespace>
-    <AssemblyName>MineSolutions.Library.CommandLibrary</AssemblyName>
+    <RootNamespace>CommandLibrary</RootNamespace>
+    <AssemblyName>CommandLibrary</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

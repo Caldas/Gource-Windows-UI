@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MineSolutions Gource UI")]
+[assembly: AssemblyTitle("Gource UI")]
 [assembly: AssemblyDescription("This project is a windows form application that help on Gource multiple arguments call")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("MineSolution")]
+[assembly: AssemblyCompany("Vtex")]
 [assembly: AssemblyProduct("Gource UI")]
-[assembly: AssemblyCopyright("Copyright © MineSolution 2012")]
+[assembly: AssemblyCopyright("Copyright © Fábio Caldas / Vtex 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

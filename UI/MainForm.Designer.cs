@@ -1,4 +1,4 @@
-﻿namespace MineSolutions.GourceUI
+﻿namespace GourceUI
 {
     partial class MainForm
     {

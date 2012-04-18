@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MineSolutions Command Library")]
+[assembly: AssemblyTitle("Command Library")]
 [assembly: AssemblyDescription("Project used to run windows commands")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("MineSolutions")]
+[assembly: AssemblyCompany("Vtex")]
 [assembly: AssemblyProduct("Command Library")]
-[assembly: AssemblyCopyright("Copyright © MineSolutions 2012")]
+[assembly: AssemblyCopyright("Copyright © Fábio Caldas / Vtex 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 
-namespace MineSolutions.Library.CommandLibrary
+namespace CommandLibrary
 {
     //TODO: Create a distinct way to see the result message away from error message
     public class CommandResult
