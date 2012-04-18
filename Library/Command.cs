@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 
-namespace MineSolutions.Library.CommandLibrary
+namespace CommandLibrary
 {
     public static class Command
     {

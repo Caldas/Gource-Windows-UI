@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
-using MineSolutions.GourceUI.Properties;
-using MineSolutions.Library.CommandLibrary;
+using GourceUI.Properties;
+using CommandLibrary;
 
-namespace MineSolutions.GourceUI
+namespace GourceUI
 {
     /*
     -p, --start-position POSITION
